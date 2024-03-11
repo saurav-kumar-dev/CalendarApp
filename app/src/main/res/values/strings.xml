@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">CalendarApp</string>
+    <string name="server_client_id">977976723863-qsrqs227ddog12kuc001sfa0bakcau49.apps.googleusercontent.com</string>
+    <string name="default_web_client_id">977976723863-0vdm7ijej5m2osb9vh1lpmk2bc9ipdks.apps.googleusercontent.com</string>
+    <string name="client_secret">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</string>
 </resources>
